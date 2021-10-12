@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764382696134",
+    "project_id": "projeto-firebase-787fe",
+    "storage_bucket": "projeto-firebase-787fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764382696134:android:b459439dc8860c5cc93dc7",
+        "android_client_info": {
+          "package_name": "com.marcos.projetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764382696134-vt1fta8mcfjt3htimcuth6ehf6nansnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNV4dATz23dzXr-iIR0jCndOCU1j_ygLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764382696134-vt1fta8mcfjt3htimcuth6ehf6nansnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
